@@ -1,5 +1,5 @@
 # Face-Recognition-Attendence-with-AWS-Rekognition-Raspberry-Pi3
-Face Recognition Attendence with AWS Rekognition &amp; Raspberry Pi3
+Face Recognition Attendence with AWS Rekognition &amp; Raspberry Pi3 it works with RPI3 using the camera module
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
@@ -61,12 +61,12 @@ directory = '' #folder name on your raspberry pi
 ```
 
 ## Run
-*First Run Train.py File*
+*First Run Train.py File on RPI*
 ```
 python train.py
 ```
 
-*Run main.py File*
+*Run main.py File on RPI*
 ```
 python main.py
 ```
