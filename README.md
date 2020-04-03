@@ -75,4 +75,4 @@ python main.py
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
 
-Licensed under the [MIT License](License)
+Licensed under the [MIT License](LICENSE)
